@@ -1,0 +1,7 @@
+# install with pip
+
+torchvision
+opencv-python
+tensorboardX
+torch
+pillow
