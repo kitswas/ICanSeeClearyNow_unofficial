@@ -9,7 +9,7 @@ import torch
 from torch.autograd import Variable
 
 #from pix2pix_models import Create_nets
-from datasets import Get_dataloader
+# from datasets import Get_dataloaders
 from options import TrainOptions
 from optimizer import *
 from utils import sample_images , LambdaLR
